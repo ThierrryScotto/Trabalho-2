@@ -1,0 +1,19 @@
+O dataset é composto por exemplos de carros, onde possuímos informações sobre o custo de compra (buying), custo de manutenção (maint), número de portas (doors), capacidade de pessoas (persons), tamanho do bagageiro (lug_boot) e segurança (safety). Cada carro pode ser classificado quanto ao seu custo benefícios em quatro classes : inaceitável (unacc), aceitável (acc), bom (good), muito bom (vgood).
+
+Ao total temos 1728 exemplos de carros rotulados com a respectiva classe.
+
+Valores possíveis para cada um dos atributos:
+
+buying: vhigh, high, med, low.
+maint: vhigh, high, med, low.
+doors: 2, 3, 4, 5more.
+persons: 2, 4, more.
+lug_boot: small, med, big.
+safety: low, med, high.
+
+As 4 classes:
+
+unacc, acc, good, vgood
+
+Nome do criador: Marko Bohanec
+Link para download no site original: https://archive.ics.uci.edu/ml/datasets/car+evaluation
